@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6d226850-05cb-4362-9ede-3c22f9179a5d">
+  <producedTypes>
+    <objectType typeId="b734ebae-c21a-40ac-9c5c-679af1a27235" valueTypeId="3bbddeb9-bb30-4d8d-9f79-7af614cfa431"/>
+    <refType typeId="bad54548-0935-45c8-bb10-dfe2e6f49a8a" valueTypeId="b747dcd3-288a-41be-b5da-5268eb2a430d"/>
+    <selectionType typeId="506c48f8-2a0a-46af-9c29-2c5ce2ae6803" valueTypeId="fb8de74f-838f-4bff-9d7d-22114f63d5b2"/>
+    <listType typeId="6adec45f-7dcc-41c3-b3bb-e504d0ebc103" valueTypeId="0c45e3e4-ea5e-47a9-a2ae-d49e9891ee4f"/>
+    <managerType typeId="f78a4cb2-5944-4526-be99-d11e9e49217f" valueTypeId="61bd1d50-5ca5-4834-bdd0-c044ccdb9802"/>
+  </producedTypes>
+  <name>ВКМ_ГрафикиРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графики работы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>График работы</value>
+  </objectPresentation>
+  <extendedObjectPresentation>
+    <key>ru</key>
+    <value>График работы</value>
+  </extendedObjectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Графики работы</value>
+  </listPresentation>
+  <extendedListPresentation>
+    <key>ru</key>
+    <value>Графики работы</value>
+  </extendedListPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
