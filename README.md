@@ -40,4 +40,4 @@
 
 #### Шаг 8
 Для автоматического тестирования нового функционала, подготовлены сценарии с помощью Vanessa Automation.
-- [Cценарии](https://github.com/goodoker/fonecmid-diplom/tree/main/autotest). 
+- [Cценарии](https://github.com/goodoker/fonecmid-diplom/tree/master/autotest). 
